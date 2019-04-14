@@ -1,2 +1,2 @@
-# Grokking-Machine-Learing
+# Grokking-Machine-Learning
 这里面的内容来自衫山将教授的图解机器学习的一本书，将matlab代码转换成了python代码
